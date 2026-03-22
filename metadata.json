@@ -1,0 +1,7 @@
+{
+  "name": "Nyx Avatar Lab",
+  "description": "Transform your portraits into premium Q-version pixel art relics using neural synthesis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
